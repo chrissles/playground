@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-master wrote into file1
-=======
 i want to create a merge conflict
->>>>>>> new-feature
+
